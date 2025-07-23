@@ -1,0 +1,42 @@
+[
+  {
+    "id": "70d07b37-36b1-439b-834e-6896832332f7",
+    "name": "Screen protector",
+    "targetPrice": 5000,
+    "allocationRatio": 30,
+    "funded": 0,
+    "lastFundedDate": "2025-07-22"
+  },
+  {
+    "id": "5644e99e-f91a-40d9-931f-8b195cdcf253",
+    "name": "New Shoes",
+    "targetPrice": 40000,
+    "allocationRatio": 20,
+    "funded": 0,
+    "lastFundedDate": "2025-07-22"
+  },
+  {
+    "id": "7a1d9d56-a4f6-47e5-a0ce-4cfa35086af8",
+    "name": "New hoody",
+    "targetPrice": 10000,
+    "allocationRatio": 20,
+    "funded": 0,
+    "lastFundedDate": "2025-07-22"
+  },
+  {
+    "id": "4e59db8d-32a6-4887-9044-141210ae2f8b",
+    "name": "Cooking",
+    "targetPrice": 5000,
+    "allocationRatio": 15,
+    "funded": 0,
+    "lastFundedDate": "2025-07-22"
+  },
+  {
+    "id": "553e72fe-2f12-426c-9375-19fca7938c93",
+    "name": "Cinema",
+    "targetPrice": 10000,
+    "allocationRatio": 15,
+    "funded": 0,
+    "lastFundedDate": "2025-07-22"
+  }
+]
