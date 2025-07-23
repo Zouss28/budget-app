@@ -5,7 +5,7 @@ const next = require('next');
 const path = require('path');
 // Detect environment
 const dev = process.env.NODE_ENV !== 'production';
-const nextApp = next({ dev, dir: path.join(__dirname, '.') });
+const nextApp = next({ dev: false });
 const handle = nextApp.getRequestHandler();
 // Route imports
 const budgetRoutes = require('./routes/budget');
